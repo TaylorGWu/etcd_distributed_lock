@@ -5,7 +5,7 @@ import (
 	"time"
 	"context"
 	//"github.com/pkg/errors"
-	"golang.org/x/tools/go/ssa/interp/testdata/src/errors"
+	"errors"
 )
 
 type DistributedLock struct {
